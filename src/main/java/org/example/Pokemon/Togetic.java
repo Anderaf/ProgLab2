@@ -1,8 +1,6 @@
 package org.example.Pokemon;
 
 import org.example.Moves.*;
-import org.example.Pokemon.*;
-import ru.ifmo.se.pokemon.Type;
 
 public class Togetic extends Togepi {
     public Togetic(){

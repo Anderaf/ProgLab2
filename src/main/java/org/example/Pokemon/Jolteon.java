@@ -1,6 +1,5 @@
 package org.example.Pokemon;
 
-import org.example.Pokemon.*;
 import org.example.Moves.*;
 import ru.ifmo.se.pokemon.Type;
 

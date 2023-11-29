@@ -1,6 +1,5 @@
 package org.example.Pokemon;
 
-import org.example.Pokemon.*;
 import org.example.Moves.*;
 
 public class Togekiss extends Togetic {
